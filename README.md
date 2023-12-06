@@ -5,4 +5,4 @@
 #Defined conditions for identifying vehicles based on minimum width and height of bounding rectangles.
 #Integrated a count line and centroid tracking to accurately count vehicles crossing a specified line in the video.
 #Displayed real-time vehicle count on the video feed.
-#Created a customizable and adaptable system for various video sources and scenarios
+#Created a customizable and adaptable system for various video sources and scenarios.
